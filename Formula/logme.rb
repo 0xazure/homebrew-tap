@@ -3,7 +3,7 @@ class Logme < Formula
   homepage "https://github.com/0xazure/logme"
   url "https://github.com/0xazure/logme/releases/download/v0.1.1/logme-v0.1.1-x86-64-apple-darwin.tar.gz"
   version "0.1.1"
-  sha256 "61ddb627220f16871fefa85051f00e7f3d99749c8cc2bb53cec1e42edbe1748c"
+  sha256 "c7ed0f20dbab6213ace60234a1874e677c4b845117ec3dae9d254b5239176005"
 
   def install
     bin.install "logme"
